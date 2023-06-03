@@ -9,10 +9,12 @@ apps responsively deciding on which region to zoom in.
 &emsp;📦 [Web component](https://github.com/Frameright/image-display-control-web-component)<br />
 &emsp;⚙️ [TypeScript library](https://github.com/Frameright/image-display-control-metadata-parser)
 &emsp;⚙️ [PHP library](https://github.com/Frameright/image-display-control-metadata-parser)<br />
-&emsp;✨ [Mobile demo](https://webc.frameright.io)
+&emsp;✨ [Mobile demo](https://webc.frameright.io)&emsp;&emsp;
 &emsp;📦 [WordPress plugin](https://github.com/frameright/image-display-control-wordpress/)
 
-### Other contributions
+---
+
+#### Other contributions
 
 * [uncommitted](https://github.com/brandon-rhodes/uncommitted/) - command-line
   tool for finding local changes you forgot to commit/push to version control
