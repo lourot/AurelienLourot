@@ -3,7 +3,7 @@ Currently working on
 #### 🚀 [@Frameright](https://github.com/Frameright) :: Image Display Control
 
 A software stack for defining regions inside a picture's metadata and having web
-apps responsively deciding on which region to zoom in
+apps responsively deciding on which region to zoom in on
 
 &emsp;📦 [React component](https://github.com/Frameright/react-image-display-control/)
 &emsp;📦 [Web component](https://github.com/Frameright/image-display-control-web-component)<br />
@@ -15,7 +15,7 @@ apps responsively deciding on which region to zoom in
 
 ---
 
-#### Other contributions
+#### Some other contributions
 
 * [uncommitted](https://github.com/brandon-rhodes/uncommitted/) - command-line
   tool for finding local changes you forgot to commit/push to version control
