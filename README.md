@@ -3,7 +3,7 @@ Currently working on
 #### 🚀 [@Frameright](https://github.com/Frameright) :: Image Display Control
 
 A software stack for defining regions inside a picture's metadata and having web
-apps responsively deciding on which region to zoom in.
+apps responsively deciding on which region to zoom in
 
 &emsp;📦 [React component](https://github.com/Frameright/react-image-display-control/)
 &emsp;📦 [Web component](https://github.com/Frameright/image-display-control-web-component)<br />
