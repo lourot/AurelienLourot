@@ -10,6 +10,7 @@ apps responsively deciding on which region to zoom in.
 &emsp;⚙️ [TypeScript library](https://github.com/Frameright/image-display-control-metadata-parser)
 &emsp;⚙️ [PHP library](https://github.com/Frameright/image-display-control-metadata-parser)<br />
 &emsp;✨ [Mobile demo](https://webc.frameright.io)&emsp;&emsp;
+&emsp;📚 [Tutorials](https://www.frameright.io/blog)<br />
 &emsp;📦 [WordPress plugin](https://github.com/frameright/image-display-control-wordpress/)
 
 ---
