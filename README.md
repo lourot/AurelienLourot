@@ -16,9 +16,16 @@ zoom in on
 &emsp;📚 [Tutorials](https://www.frameright.io/blog)<br />
 &emsp;💡 [GitHub Discussions](https://github.com/Frameright/react-image-display-control/discussions)
 
----
+#### 🔨 [Vike](https://github.com/brillout/vike) + ⚡ [Bâti](https://github.com/batijs/bati)
 
-#### Some other contributions
+Build your own JavaScript web framework. Vike is the upcoming major version of
+[vite-plugin-ssr](https://vite-plugin-ssr.com/), a fast and modular
+[Vite](https://vitejs.dev/)-based web framework. Bâti is an easy project
+scaffolding tool for combining Vike with the components you need, e.g. Solid,
+React, Vue, [Telefunc](https://telefunc.com/),
+[Hattip](https://github.com/hattipjs/hattip), Express, etc.
+
+#### 🎁 Some other contributions
 
 * [uncommitted](https://github.com/brandon-rhodes/uncommitted/) - command-line
   tool for finding local changes you forgot to commit/push to version control
