@@ -23,7 +23,7 @@ Build your own JavaScript web framework. Vike is the upcoming major version of
 [Vite](https://vitejs.dev/)-based web framework. Bâti is an easy project
 scaffolding tool for combining Vike with the components you need, e.g. Solid,
 React, Vue, [Telefunc](https://telefunc.com/),
-[Hattip](https://github.com/hattipjs/hattip), Express, etc.
+[HatTip](https://github.com/hattipjs/hattip), Express, etc.
 
 #### 🎁 Some other contributions
 
