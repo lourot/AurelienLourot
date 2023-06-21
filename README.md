@@ -8,13 +8,14 @@ zoom in on
 
 &emsp;📦 [React component](https://github.com/Frameright/react-image-display-control/)
 &emsp;✨ [React live demo](https://react.frameright.io)<br />
+&emsp;💻 [CodeSandbox](https://codesandbox.io/s/image-display-control-react-component-m6qj9r)
+&emsp;&emsp;&nbsp;&nbsp;&nbsp;💡 [GitHub Discussions](https://github.com/Frameright/react-image-display-control/discussions)<br />
 &emsp;📦 [Web component](https://github.com/Frameright/image-display-control-web-component)
 &emsp;&nbsp;&nbsp;✨ [WebC live demo](https://webc.frameright.io)<br />
 &emsp;⚙️ [TypeScript library](https://github.com/Frameright/image-display-control-metadata-parser)
 &emsp;⚙️ [PHP library](https://github.com/Frameright/php-image-metadata-parser)<br />
 &emsp;📦 [WordPress plugin](https://github.com/frameright/image-display-control-wordpress/)
-&emsp;📚 [Tutorials](https://www.frameright.io/blog)<br />
-&emsp;💡 [GitHub Discussions](https://github.com/Frameright/react-image-display-control/discussions)
+&emsp;📚 [Node.js tutorial](https://www.frameright.io/post/metadata-in-node-js)
 
 #### 🔨 [Vike](https://github.com/brillout/vike) + ⚡ [Bâti](https://github.com/batijs/bati)
 
