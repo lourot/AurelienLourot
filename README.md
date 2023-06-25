@@ -17,11 +17,11 @@ zoom in on
 &emsp;📦 [WordPress plugin](https://github.com/frameright/image-display-control-wordpress/)
 &emsp;📚 [Node.js tutorial](https://www.frameright.io/post/metadata-in-node-js)
 
-#### 🔨 [Vike](https://github.com/brillout/vike) + ⚡ [Bâti](https://github.com/batijs/bati)
+#### 🔨 [Vike](https://github.com/brillout/vike) + ⚡ [Bati](https://github.com/batijs/bati)
 
 Build your own JavaScript web framework. Vike is the upcoming major version of
 [vite-plugin-ssr](https://vite-plugin-ssr.com/), a fast and modular
-[Vite](https://vitejs.dev/)-based web framework. Bâti is an easy project
+[Vite](https://vitejs.dev/)-based web framework. Bati is an easy project
 scaffolding tool for combining Vike with the components you need, e.g. Solid,
 React, Vue, [Telefunc](https://telefunc.com/),
 [HatTip](https://github.com/hattipjs/hattip), Express, etc.
