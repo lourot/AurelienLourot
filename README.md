@@ -19,5 +19,5 @@ React, Vue, [Telefunc](https://telefunc.com/),
 
 * [uncommitted](https://github.com/brandon-rhodes/uncommitted/) - command-line
   tool for finding local changes you forgot to commit/push to version control
-* [dracula/gitk](https://draculatheme.com/gitk) - dark theme for
+* [dracula/gitk](https://github.com/dracula/gitk) - dark theme for
   [gitk](https://git-scm.com/docs/gitk)
