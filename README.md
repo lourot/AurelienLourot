@@ -2,7 +2,7 @@ Currently working on
 
 #### 🚀 [@Frameright](https://github.com/Frameright) :: [Image Display Control](https://docs.frameright.io)
 
-Responsive images on steroids - a software stack for defining regions inside a
+Next-gen responsive images - a software stack for defining regions inside a
 picture's metadata and having web apps responsively deciding on which region to
 zoom in on. Check out [docs.frameright.io](https://docs.frameright.io/introduction)
 
