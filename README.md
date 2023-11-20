@@ -4,7 +4,7 @@
 
 [@vikejs](https://github.com/vikejs/vike) | [vike.dev](https://vike.dev/)
 <br />
-JavaScript Frontend Framework
+JavaScript frontend framework
 <br />
 Fast, modular, Vite-based
 
