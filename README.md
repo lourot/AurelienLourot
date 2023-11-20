@@ -1,25 +1,19 @@
-Currently working on
+[<img src="https://vike.dev/vike-readme.svg" align="left" width="45" hspace="15">](https://github.com/vikejs/vike)
 
-#### 🚀 [@Frameright](https://github.com/Frameright) :: [Image Display Control](https://docs.frameright.io)
+[@vikejs](https://github.com/vikejs/vike) | [vike.dev](https://vike.dev/)
+<br />
+JavaScript Frontend Framework
+<br />
+Fast, modular, Vite-based
 
-Next-gen responsive images - a software stack for defining regions inside a
-picture's metadata and having web apps responsively deciding on which region to
-zoom in on. Check out [docs.frameright.io](https://docs.frameright.io/introduction)
+[<img src="https://raw.githubusercontent.com/batijs/bati/main/website/assets/logo.svg" align="left" width="45" hspace="15">](https://github.com/batijs/bati)
 
-#### 🔨 [Vike](https://github.com/vikejs/vike) + ⚡ [Bati](https://github.com/batijs/bati)
+[@batijs](https://github.com/batijs/bati) | [batijs.github.io](https://batijs.github.io/)
+<br />
+Next-gen web app scaffolder
 
-Build your own JavaScript web framework. Vike is a fast and modular
-[Vite](https://vitejs.dev/)-based web framework. Bati is an easy project
-scaffolding tool for combining Vike with the components you need, e.g. Solid,
-React, Vue, [Telefunc](https://telefunc.com/),
-[HatTip](https://github.com/hattipjs/hattip), Express, etc. Check out
-[vike.dev](https://vike.dev/) and [batijs.github.io](https://batijs.github.io/)
+[<img src="https://avatars.githubusercontent.com/u/35964478?s=200&v=4" align="left" width="45" hspace="15">](https://github.com/Frameright/react-image-display-control)
 
-----------
-
-Some other contributions
-
-* [uncommitted](https://github.com/brandon-rhodes/uncommitted/) - command-line
-  tool for finding local changes you forgot to commit/push to version control
-* [dracula/gitk](https://github.com/dracula/gitk) - dark theme for
-  [gitk](https://git-scm.com/docs/gitk)
+[@frameright](https://github.com/Frameright/react-image-display-control) | [frameright.io](https://docs.frameright.io/)
+<br />
+Next-gen responsive images
