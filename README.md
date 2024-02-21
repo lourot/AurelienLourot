@@ -1,4 +1,4 @@
-##### Recent projects:
+#### Recent projects
 
 [<img src="https://vike.dev/vike-readme.svg" align="left" width="40">](https://github.com/vikejs/vike)
 
